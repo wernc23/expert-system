@@ -1,2 +1,4 @@
 # expert-system
-Java Drools with rules spreadsheet
+Java expert system using Drools library with rules spreadsheet
+
+Used to identify rock types. 
